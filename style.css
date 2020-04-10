@@ -1,0 +1,17 @@
+
+                  h1 { color:  #808080; font-weight: normal;}
+                  li{color:#fff; font-weight: normal;}
+                     p { color: #fff; font-weight: normal;}
+                      p { margin - left: 30 mm;}
+                       body{ background: url(https://www.sogoodlanguages.com/wp-content/uploads/2017/04/wood.jpg)
+     }
+              a.sun{
+background: url(images\манипулятор212.jpg);
+display:block;
+width="100%"
+ height="100%"
+
+          }
+a.sun:hover{
+background: url(images\манипулятор2.jpg);
+}
